@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users idCounter="3">
+    <user id="1">
+        <userName>admin</userName>
+        <userPassword>b59c67bf196a4758191e42f76670ceba</userPassword>
+        <userRole>ADMIN</userRole>
+    </user>
+    <user id="2">
+        <userName>user</userName>
+        <userPassword>934b535800b1cba8f96a5d72f72f1611</userPassword>
+        <userRole>USER</userRole>
+    </user>
+    <user id="3">
+        <userName>user3</userName>
+        <userPassword>2be9bd7a3434f7038ca27d1918de58bd</userPassword>
+        <userRole>USER</userRole>
+    </user>
+</users>
